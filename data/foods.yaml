@@ -3,3 +3,9 @@
   reference: 100
   dryWeight: 90
   cookedWeight: 200
+
+- name: sainsbury's rice
+  carbs: 32.1
+  reference: 100
+  dryWeight: 75
+  cookedWeight: 195
